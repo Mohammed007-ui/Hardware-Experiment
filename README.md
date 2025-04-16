@@ -7,7 +7,8 @@ Ideal sampling
 ```
 Natural Sampling
 ```
-![pic-1](https://github.com/user-attachments/assets/688bfb0b-9f91-40a2-b4bf-e38cc6cc9868)
+![Natural sampling](https://github.com/user-attachments/assets/60f7c77e-0c38-48b8-8ad1-919022863b20)
+
 ```
 PCM
 ```
