@@ -20,5 +20,6 @@ DM
 ```
 Line Coding 
 ```
-
+![LBC](https://github.com/user-attachments/assets/889c3532-6f0e-447e-b5d5-5170af1da487)
+```
 Attach the output graph
